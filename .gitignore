@@ -1,0 +1,17 @@
+# virtual envs
+myvenv/
+venv/
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
